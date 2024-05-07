@@ -1,0 +1,2 @@
+<<CourseLevel.java>>
+####file: CourseLevel.java: This file defines an enum for the different levels of a course, such as Beginner, Intermediate, Advanced, and Legendary.####The package name for all files is: com.gabismvp.coursemanagement.common . The path to the common folder is: "Gabis-MVP SpringBoot\src\main\java\com\gabismvp\coursemanagement\common"
